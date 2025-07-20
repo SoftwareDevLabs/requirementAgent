@@ -4,7 +4,7 @@ Hi there! We're thrilled that you'd like to contribute to this project. Your hel
 
 Contributions to this project are released to the public under the project's open source license ([SoftwareDevLabs License](https://github.com/SoftwareDevLabs/.github/blob/main/LICENSE.md).
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [CODE_OF_CONDUCT.md](https://github.com/SoftwareDevLabs/requirementAgent?tab=coc-ov-file#readme). By participating in this project you agree to abide by its terms.
 
 ## Submitting a pull request
 
